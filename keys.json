@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "anuragwhatsapp",
+  "private_key_id": "167cd07b453a983e74fb7430549aea2c0a9a2393",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCZDdHFYLHBwstI\nmmtX/UZ0yQJpTw1xHcl/JNjnhM/ysXTbKBEaaaktadJiUZSrQVoYmqaCnZD52eh4\nYVjI9fbYXw9NKTRzh7S1YEHZlv10mYWr4guMXQbr9qVcH9lx/T7EcgXLj8Ux4GA/\n8ldxVvRQbhicTDQCWLYoTksKNofQ7ZlO5KTsBB4c+cKTw3hcAljNb4fEfcv5D5fO\nCtUIzIwyDjlLpSaRfwJVmPaXqGmItHy2BOxZ48C/hPzHUulTMaJKTvlHFU8ouDvx\nddIPwd0D4PwK3z1ykDl0RM7pxuSoABN1Z8CQKD6Ixb3SMT9RseSeLxC2dzWMdt47\n4VyHTUtfAgMBAAECggEAGo4+RlvXm8HbmZZJZ7PnRJ4X0APKVkUP0AKpq8nsdrR5\njQjvpsCMfPeubCaxf+FP65Lxrxn9rIw1fKWPTRb4JGSh+AZdNmpmXU39Pu6mvVNh\n0QfgbxM4/zoFSO2xwchp2pXaEY65bUT8DjxTFbQ7obToij3ijEGuIWIsPPJnMEW0\nsX2k9EBcBoPFiVnadoU0RZPFdn3GQD9BwXMe+ZHvFmLQZRCQQipbULoXK8BPsQ2G\nfRa8wzc/eByBg8HdNox+wuZW4weKqWnndXE3gIU8Q/wsiJEXGm2gn0weufhLVJMM\n3CXqUwwrScXZEJPQAgg7CopW0pMAuiuThrUA/ewKGQKBgQDH9YsNO7OzIjbNoQlH\nnVOOj+lnIfZCFmOW1bCoFDRzYT1JRg9HGxBMPJjhOsutSFapz50/KNxdUjVrwDLF\nMSfIfl8XvPyIdjbyP7e3yd4klVU6kGBqP9Si/mMtZcEWE+PwEbvGBvXT2+TlvSDU\niGceS9f9Phnf5MyvB1wf7hPcBQKBgQDD8vlQrwvbusKvfdQylSFpE848rkDrewf+\nV7jKN/TQm6RGojZRltaChH4jaiglM2TV+HSlySEVUePZJ6Yefszgob6gYJhMkCMG\n7yqeV7QcAPDUTjhSBu1/s3veqP0+vkqeYCotnqQf14+Hf0kAryBKTOfli3W7eq0Y\ncA52dazLEwKBgGbGoUsS9aFMI6j7bX6esbTj6U62GRIM2fFMMnmhsPfg8hQ4a1/b\n3DujJd0WUFvng4vSh3tQMDvTJlwUtMPAKTeXJJ9Z5t7pDALllzNjEcfx7ZWlYbka\nx9tjL2zFEUKcxJq/MqltKGtVachftoEm/wGGcCTdB4WZ307TVJmg0BpVAoGAcFDM\nQUgktu0E/MxWHixG+1Dj7PpAsflSaqJjhF2wkQY1klsWYYvhJuzE1I3btv8PdGo2\ninSP5wWKYYWNfXtW+gccGhdkFLalrSrXte01irurTzYKqFHaPlFl1gntJtKyOLeM\nVZvSHYJUfekisiavjocogPWAJVc68oAAejwXMEsCgYATgAAA1jWdYWagQ+1e9Pi8\nqC9ZFat8Bu3akeEuS+W/FBVcM4o8ne0u+t7k/kdOAsnFkNcktH45QLyRBFrakmIN\nI5xGbcPOpp9O8ywabhJq/KJubsoUw4s4mrMC+epPjOAodfWi3WxnXJZ/b8R5oIH2\nOT5RCjLARkH6NRcJ1BFzcw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "anuragwa@anuragwhatsapp.iam.gserviceaccount.com",
+  "client_id": "116270030210915726856",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anuragwa%40anuragwhatsapp.iam.gserviceaccount.com"
+}
